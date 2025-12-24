@@ -1,4 +1,6 @@
-# just-the-docs-template
+# rhm-modding-docs
+
+A new all-encompassing docs project for Rhythm Heaven Megamix Modding
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
